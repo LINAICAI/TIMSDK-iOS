@@ -32,5 +32,6 @@ Carthage
 #
 Example/Pods/
 Example/Podfile.lock
+build.readme.txt
 
 IM_iOS_SDK_*
